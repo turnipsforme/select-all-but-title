@@ -3,7 +3,7 @@
   "name": "Select All But Title",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Adds a command that selects all note text except the topmost # heading.",
+  "description": "Adds a command that expands selection from paragraph to heading body to all text except the topmost # heading.",
   "author": "You",
   "authorUrl": "",
   "isDesktopOnly": false
